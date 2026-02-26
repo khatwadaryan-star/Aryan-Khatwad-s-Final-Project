@@ -1,4 +1,4 @@
-# Project Scope Statement - Final Project
+# Project Scope Statement
 ## Project Purpose
 Demonstrate the skills in project management, documentation, and web development that I have learned throughout the Fundamentals of Computing Applications course.
 ## Project Description
