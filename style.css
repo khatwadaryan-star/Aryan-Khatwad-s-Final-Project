@@ -1,0 +1,22 @@
+body {
+  background-color: #d4af37;
+}
+main {
+  color: #ffffff;
+  font-family: Open Sans;
+}
+h1 {
+  color: #007bff;
+  font-family: Times New Roman;
+}
+h2 {
+  color: #ff0000;
+  font-family: Arial;
+}
+p {
+  color: #8338ec;
+  font-family: Helvetica;
+ul {
+ color: #000000;
+ font-family: Merriweather;
+}
